@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Encabezado y Saludo -->
 <h1 align="center">¡Hola, soy Juan! 👋</h1>
 <p align="center">
@@ -52,7 +51,7 @@
 <p align="center">
   Puedes encontrarme en:
   <br><br>
-  <a href="https://www.linkedin.com/in/juanrobdev/" target="_blank">
+  <a href="[https://www.linkedin.com/in/juanrobdev/](https://www.linkedin.com/in/juanrobdev/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:juanrobayodev@gmail.com" target="_blank">
