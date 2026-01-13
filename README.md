@@ -21,10 +21,10 @@
 
 ### ⚡ Perfil Profesional
 
-* [cite_start]🚀 **Experiencia Práctica:** 9 meses como Desarrollador Backend optimizando procesos internos y diseñando APIs[cite: 22, 29, 32].
-* [cite_start]🎓 **Formación Técnica:** Técnico en Programación de Software (SENA) con énfasis en desarrollo de aplicaciones.
-* [cite_start]🛠️ **Especialidad:** Dominio del ecosistema **Java** y **Spring Boot**, con gestión avanzada de bases de datos **Oracle SQL**[cite: 38, 39, 40].
-* [cite_start]🤖 **Intereses:** Apasionado por la robótica y la arquitectura de software[cite: 44, 47].
+* 🚀 **Experiencia Práctica:** 9 meses como Desarrollador Backend optimizando procesos internos y diseñando APIs.
+* 🎓 **Formación Técnica:** Técnico en Programación de Software (SENA) con énfasis en desarrollo de aplicaciones.
+* 🛠️ **Especialidad:** Dominio del ecosistema **Java** y **Spring Boot**, con gestión avanzada de bases de datos **Oracle SQL**.
+* 🤖 **Intereses:** Apasionado por la robótica y la arquitectura de software.
 
 ---
 
@@ -37,17 +37,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
-
-### 📊 Actividad en GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=QuackerAs&show_icons=true&theme=tokyonight&locale=es&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuackerAs&layout=compact&theme=tokyonight&locale=es&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <i>"Innovando a través del código y la tecnología."</i>
