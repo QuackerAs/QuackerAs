@@ -1,144 +1,54 @@
-<!-- Encabezado y Saludo -->
-
-<h1 align="center">¡Hola, soy Juan! 👋</h1>
-
 <p align="center">
-
-<a href="https://github.com/QuackerAs">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Desarrollador+Backend+Java;Apasionado+por+la+Robótica;Entusiasta+del+Hardware+DIY" alt="Typing SVG" />
-
-</a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Juan+David+Robayo;Backend+Developer;Java+%26+Spring+Boot" alt="Typing SVG" />
 </p>
 
-
-
-<!-- Bio / Sobre Mí -->
-
 <p align="center">
-
-Soy un Desarrollador de Software de Bogotá, Colombia 🇨🇴. Me especializo en el ecosistema de <strong>Java</strong> y <strong>Spring Boot</strong> para construir aplicaciones backend robustas y escalables.
-
-<br>
-
-Actualmente estoy aprendiendo sobre arquitectura de microservicios.
-
+  <strong>Desarrollador Backend</strong> enfocado en crear soluciones escalables y eficientes.
+  <br>
+  Transformando lógica compleja en código limpio y funcional.
 </p>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanrobdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:robayoolaya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
+### ⚡ Perfil Profesional
 
-
-### 🚀 Mi Stack Tecnológico
-
-
-
-<p align="center">
-
-<!-- Lenguajes -->
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-
-<!-- Frameworks -->
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-
-<!-- Bases de Datos -->
-
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-
-<!-- Herramientas -->
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-
-</p>
-
-
+* [cite_start]🚀 **Experiencia Práctica:** 9 meses como Desarrollador Backend optimizando procesos internos y diseñando APIs[cite: 22, 29, 32].
+* [cite_start]🎓 **Formación Técnica:** Técnico en Programación de Software (SENA) con énfasis en desarrollo de aplicaciones.
+* [cite_start]🛠️ **Especialidad:** Dominio del ecosistema **Java** y **Spring Boot**, con gestión avanzada de bases de datos **Oracle SQL**[cite: 38, 39, 40].
+* [cite_start]🤖 **Intereses:** Apasionado por la robótica y la arquitectura de software[cite: 44, 47].
 
 ---
 
+### 🛠️ Stack Tecnológico
 
-
-### 📊 Mis Estadísticas de GitHub
-
-
-
-<!-- Cambia `?username=QuackerAs` por tu usuario. Puedes personalizar los temas. -->
-
-<p align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuackerAs&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de QuackerAs" />
-
-<br><br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuackerAs&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados por QuackerAs" />
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
-
 
 ---
 
-
-
-### 📫 ¿Hablamos?
-
-
+### 📊 Actividad en GitHub
 
 <p align="center">
-
-Puedes encontrarme en:
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/juanrobdev/" target="_blank">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
-</a>
-
-<a href="mailto:juanrobayodev@gmail.com" target="_blank">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-
-</a>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=QuackerAs&show_icons=true&theme=tokyonight&locale=es&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuackerAs&layout=compact&theme=tokyonight&locale=es&hide_border=true" />
 </p>
 
+---
 
-
-
-
-<!--
-
-**QuackerAs/QuackerAs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
--->
-
+<p align="center">
+  <i>"Innovando a través del código y la tecnología."</i>
+</p>
